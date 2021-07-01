@@ -1,5 +1,5 @@
 # Sentiment-Analysis-Reddit
-Sentiment Analysis on Reddit, a case study for GMAC.
+Sentiment Analysis on Reddit: learning about GMAT exam complaints. 
 
 I was interested in understanding the limitations, and challenges of the GMAT exam by analyzing comments on the dedicated sub-Reddit forum.
 I have performed an analysis by "Web scraping" the posts of Reddit and using sentiment analysis to identify neutral and negatives comments and obtaing word clouds.
